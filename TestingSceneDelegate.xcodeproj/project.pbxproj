@@ -46,6 +46,8 @@
 		6C47C15023C7458900C99D7A /* TestingAppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingAppDelegate.swift; sourceTree = "<group>"; };
 		6C47C15223C76C8700C99D7A /* TestingSceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingSceneDelegate.swift; sourceTree = "<group>"; };
 		6C47C15423C76EC100C99D7A /* TestingRootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingRootViewController.swift; sourceTree = "<group>"; };
+		6C47C15E23C7B60900C99D7A /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		6C47C15F23C7B60900C99D7A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,8 @@
 		6C47C12023C71FB100C99D7A = {
 			isa = PBXGroup;
 			children = (
+				6C47C15F23C7B60900C99D7A /* README.md */,
+				6C47C15E23C7B60900C99D7A /* LICENSE */,
 				6C47C12B23C71FB100C99D7A /* TestingSceneDelegate */,
 				6C47C14223C71FB200C99D7A /* TestingSceneDelegateTests */,
 				6C47C12A23C71FB100C99D7A /* Products */,
