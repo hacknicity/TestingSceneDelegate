@@ -8,6 +8,7 @@
 
 import UIKit
 
+@available(iOS 13, *)
 class TestingSceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     var window: UIWindow?
