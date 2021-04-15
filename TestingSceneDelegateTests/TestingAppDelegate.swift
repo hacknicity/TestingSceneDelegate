@@ -38,6 +38,7 @@ final class TestingAppDelegate: UIResponder, UIApplicationDelegate {
         // Use this method to select a configuration to create the new scene with.
         let sceneConfiguration = UISceneConfiguration(name: nil, sessionRole: connectingSceneSession.role)
         sceneConfiguration.delegateClass = TestingSceneDelegate.self
+        sceneConfiguration.storyboard = nil
 
         return sceneConfiguration
     }
